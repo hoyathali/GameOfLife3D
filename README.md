@@ -1,6 +1,5 @@
 # 3D Game of Life
 
-## Demo Video URL : https://drive.google.com/file/d/117k4_yS3Qnz4qpUQoxapPheLid-xcKSc/view?usp=sharing
 
 Welcome to the 3D Game of Life project! This implementation provides an interactive visualization of Conway's Game of Life in a 3D space using Mayavi.
 
